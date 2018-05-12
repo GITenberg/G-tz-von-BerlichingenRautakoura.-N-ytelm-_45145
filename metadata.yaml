@@ -1,0 +1,38 @@
+_repo: G-tz-von-BerlichingenRautakoura.-N-ytelm-_45145
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Räihä, Antti
+    alias: Raiha, Antti
+    gutenberg_agent_id: '38766'
+    url: http://www.gutenberg.org/2009/agents/38766
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_issued: '2014-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45145'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Berlichingen, Götz von, 1480-1562 -- Drama'
+title: 'Götz von Berlichingen
+
+  Rautakoura. Näytelmä'
+url: http://www.gutenberg.org/ebooks/45145
